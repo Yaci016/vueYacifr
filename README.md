@@ -1,4 +1,4 @@
-# app
+# vue.yaci.fr
 
 ## Project setup
 ```
